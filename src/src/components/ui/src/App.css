@@ -1,0 +1,14 @@
+body {
+  font-family: 'Tajawal', 'Arial', sans-serif;
+  background: #f0f6fa;
+}
+
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.ltr {
+  direction: ltr;
+  text-align: left;
+}
